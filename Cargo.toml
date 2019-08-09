@@ -1,0 +1,8 @@
+[package]
+name = "vismut"
+version = "0.0.1"
+authors = ["Joosua Koskinen <koskinen.joosua@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lightheader = { git = "https://github.com/Mainerii/Lightheader" }
