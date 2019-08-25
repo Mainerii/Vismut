@@ -5,4 +5,5 @@ authors = ["Joosua Koskinen <koskinen.joosua@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+tun-tap = "0.1.2"
 lightheader = { git = "https://github.com/Mainerii/Lightheader" }
